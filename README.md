@@ -11,4 +11,4 @@
 
 ## 16S sequencing 
 
-Scripts for processing the 15=6S data and preparing rarefaction curves are in "16S_and_rarefaction"
+Scripts for processing the 16S data and preparing rarefaction curves are in "16S_and_rarefaction"
